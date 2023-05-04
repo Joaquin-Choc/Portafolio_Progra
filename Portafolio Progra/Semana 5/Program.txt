@@ -1,0 +1,12 @@
+using System;
+
+class Program {
+  static void Main() {
+    double r = 2.5;
+    double pi = 3.1416;
+    double area = pi * r * r;
+    Console.WriteLine("El valor de r es: " + r);
+    Console.WriteLine("El valor de pi es: " + pi);
+    Console.WriteLine("El área del círculo es: " + area);
+  }
+}
